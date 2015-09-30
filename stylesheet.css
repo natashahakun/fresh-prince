@@ -1,0 +1,25 @@
+body {
+  color: #58ACFA;
+  background-color: #EFFBFB;
+  font-family: georgia, serif;
+}
+
+h1 {
+  font-family: helvetica, sans serif;
+  color: #AC58FA;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+#shakespeare-link {
+  text-align: left;
+  font-style: italic;
+}
